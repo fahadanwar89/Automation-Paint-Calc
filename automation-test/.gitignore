@@ -3,5 +3,6 @@
 .project
 .settings
 .classpath
-/target/
-/test-output/
+.DS_Store
+target/
+test-output/
