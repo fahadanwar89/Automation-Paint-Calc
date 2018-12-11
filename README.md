@@ -6,7 +6,7 @@ Web test automation project using Eclipse IDE, Java, Maven, Junit, TestNG, Selen
 
 ## Test Subject
 
-This is an automation challenge to test a Paint Calculator written in Python using a localhost url.
+This is an automation project to test a Paint Calculator written in Python using a localhost url.
 
 ## Libraries and Frameworks
 
